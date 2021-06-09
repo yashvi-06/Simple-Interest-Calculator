@@ -1,0 +1,30 @@
+body {
+  font-family: arial, sans-serif;
+  margin: 0;
+}
+
+/* Header/Logo Title */
+.header {
+  padding: 2px;
+  text-align: center;
+  background: #212423;
+  color: white;
+  font-size: 10px;
+  width: 49.7%;
+}
+
+table {
+  font-family: arial, sans-serif;
+  width: 50%;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 10px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
